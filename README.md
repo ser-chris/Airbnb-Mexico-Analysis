@@ -38,7 +38,7 @@ The data begins from March 2025 onwards, capturing the most recent market trends
 
 ## 3. Executive Summary
 
-This analysis provides a comprehensive examination of the Airbnb market in Mexico, offering insights into profitability and performance across various cities and property types. An interactive Tableau dashboard provides visual insights into city-specific KPIs and property type performance. The focus is on understanding how factors like location, pricing, fees, and discounts impact earnings. Our findings show that:
+This analysis provides a comprehensive examination of the Airbnb market in Mexico, offering insights into profitability and performance across various cities and property types. An [interactive Tableau dashboard](https://public.tableau.com/app/profile/christian.verdugo1554/viz/AirbnbPriceInsightsAcrossMexico/Dashboard2) provides visual insights into city-specific KPIs and property type performance. The focus is on understanding how factors like location, pricing, fees, and discounts impact earnings. Our findings show that:
 
 ![Dashboard SS](https://github.com/user-attachments/assets/ccada154-ea64-433b-b245-9bec73547826)
 
